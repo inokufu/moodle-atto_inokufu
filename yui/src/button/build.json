@@ -1,0 +1,10 @@
+{
+  "name": "moodle-atto_inokufu-button",
+  "builds": {
+    "moodle-atto_inokufu-button": {
+      "jsfiles": [
+        "button.js"
+      ]
+    }
+  }
+}
