@@ -23,13 +23,3 @@
  */
 
 $string['pluginname'] = 'Inokufu Search Atto';
-
-$string['loproperties'] = 'Learning Object properties';
-$string['resourceurlrequired'] = 'Please specify a valid URL';
-$string['resourcetitlerequired'] = 'Please specify a title';
-$string['browserepositories'] = 'Search for a Learning Object';
-$string['enterurl'] = 'Enter URL';
-$string['addresource'] = 'Add a Learning Object';
-$string['entertitle'] = 'Title to display';
-$string['entertitleplaceholder'] = 'You can edit the displayed title here';
-$string['errortitletoolong'] = 'A title too long might not be displayed well!';

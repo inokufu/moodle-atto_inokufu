@@ -33,14 +33,5 @@ function atto_inokufu_strings_for_js() {
 
     $PAGE->requires->strings_for_js(array(
         'pluginname',
-        'loproperties',
-        'resourceurlrequired',
-        'resourcetitlerequired',
-        'browserepositories',
-        'enterurl',
-        'addresource',
-        'entertitle',
-        'entertitleplaceholder',
-        'errortitletoolong',
     ), 'atto_inokufu');
 }
