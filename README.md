@@ -1,10 +1,15 @@
-Inokufu Search - Moodle Atto Plugin
+Inokufu Search - Atto Plugin for the Moodle™ platform
 =================================
 
-The Inokufu Search - Moodle Atto plugin is a part of the Inokufu Search Moodle Plugin set, which also includes the Inokufu Search - Moodle Repository plugin. This Moodle Atto plugin simplifies the interaction with the Inokufu Search - Moodle Repository plugin, by enabling users to embed content from the Moodle Repositories directly into the Atto text editor.
+The Inokufu Search - Atto Plugin for the Moodle™ platform is part of the set of plugins required to integrate Inokufu Search into your Moodle™ platform. 
+This set also includes:
+- the [Inokufu Search - Repository plugin for the Moodle™ platform]([https://github.com/inokufu/moodle-repository_inokufu), 
+- the [Inokufu Search - TinyMCE plugin for the Moodle™ platform](https://github.com/inokufu/moodle-tinymce_inokufu). 
+
+This plugin enable users to embed content from the Repositories directly into the Atto text editor of their Moodle™ platform.
 This documentation will guide you through the installation and usage of the plugin.
 
-**Note:** This Moodle Plugin is only useful when combined with our `Inokufu Search - Moodle Repository Plugin`. Please be sure to have it installed and configured before installing this plugin.
+**Note:** This Plugin is only useful when combined with our `Inokufu Search - Repository plugin for the Moodle™ platform`. Please be sure to have it installed and configured before installing this plugin.
 
 Please find a French version of this documentation [here](./README.fr.md).
 
