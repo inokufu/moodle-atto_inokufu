@@ -78,7 +78,7 @@ Y.namespace(`M.${COMPONENTNAME}`).Button = Y.Base.create('button', Y.M.editor_at
         this.get('host').focus();
 
         if (params.url !== '') {
-            const html = await fetch(params.url);
+            const html = await fetch(params.url + '/preview');
             const output = await html.text();
 
             this.get('host').insertContentAtFocusPoint(output);

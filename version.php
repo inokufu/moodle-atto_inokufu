@@ -24,10 +24,13 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$plugin->version   = 2024040500;        // The current plugin version (Date: YYYYMMDDXX).
-$plugin->requires  = 2022041200;        // Requires this Moodle version.
-$plugin->component = 'atto_inokufu';  // Full name of the plugin (used for diagnostics).
+$plugin->version   = 2024061700;
+$plugin->requires = 2022112802.00; // 4.1.2 (Build: 20230313)
+$plugin->component = 'atto_inokufu';
+$plugin->maturity = MATURITY_STABLE;
+$plugin->release = '1.1.1';
+$plugin->supported = [410, 420];
 
 $plugin->dependencies = [
-    'repository_inokufu' => 2022051300  // Needs repository plugin to be useful
+    'repository_inokufu' => 2024061700  // Needs repository plugin to be useful
 ];

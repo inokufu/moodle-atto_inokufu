@@ -1,10 +1,16 @@
-Inokufu Search - Plugin Atto Moodle
+Inokufu Search - Atto Plugin pour la plateforme Moodle™
 =================================
 
-Le plugin Inokufu Search - Plugin Atto Moodle fait partie de l'ensemble des plugins Moodle Inokufu Search, qui inclut également le plugin Inokufu Search - Plugin Dépôt Moodle. Ce plugin Atto Moodle simplifie l'interaction avec le plugin Inokufu Search - Plugin Dépôt Moodle, en permettant aux utilisateurs d'intégrer du contenu provenant des Dépôt Moodle directement dans l'éditeur de texte Atto.
+Inokufu Search - Atto Plugin pour la plateforme Moodle™ fait partie de l'ensemble des plugins permettant d'intégrer Inokufu Search dans votre plateforme Moodle™.
+Cet ensemble inclut également :
+- [Inokufu Search - Local Services plugin pour la plateforme Moodle™](https://github.com/inokufu/moodle-local_inokufu), 
+- [Inokufu Search - Repository Plugin pour la plateforme Moodle™](https://github.com/inokufu/moodle-repository_inokufu). 
+- [Inokufu Search - TinyMCE plugin pour la plateforme Moodle™](https://github.com/inokufu/moodle-tinymce_inokufu). 
+
+Ce plugin permet aux utilisateurs d'intégrer des objects d'apprentissage de notre plugin [Repository](https://github.com/inokufu/moodle-repository_inokufu) directement dans l'éditeur de texte Atto de leur plateforme Moodle™.
 Ce document vous guidera à travers l'installation et l'utilisation du plugin.
 
-**Note :** Ce plugin Moodle n'est utile que lorsqu'il est combiné avec notre plugin `Inokufu Search - Plugin Dépôt Moodle`. Assurez-vous de l'avoir installé et configuré avant d'installer ce plugin.
+**Note :** Ce plugin n'est utile que lorsqu'il est combiné avec notre plugin `Inokufu Search - Repository plugin pour la plateforme Moodle™`. Assurez-vous de l'avoir installé et configuré avant d'installer ce plugin.
 
 ## Installation
 
